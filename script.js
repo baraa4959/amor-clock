@@ -127,8 +127,8 @@ function updateTimeAndDate() {
         noteElement.style.display = 'block';
         rightHalfElement.style.display = 'flex';
     } else {
-        noteElement.style.display = 'none';
-        rightHalfElement.style.display = 'none';
+        //noteElement.style.display = 'none';
+        //rightHalfElement.style.display = 'none';
     }
 
 }
